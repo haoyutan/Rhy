@@ -1,0 +1,15 @@
+Package: Rhy
+Type: Package
+Title: Haoyu's Implementation of Useful Toolkits
+Version: 0.01
+Date: 2013-10-25
+Author: Haoyu Tan
+Maintainer: Haoyu Tan <haoyutan@gmail.com>
+Description: This package will contain my implementation of many
+    useful toolkits related to linear and convex optimization,
+    machine learning, data mining, etc.
+License: GPL (>= 2)
+LazyLoad: yes
+LazyData: yes
+NeedsCompilation: no
+Depends: methods
