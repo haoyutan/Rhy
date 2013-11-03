@@ -1,7 +1,7 @@
 Package: Rhy
 Type: Package
 Title: Haoyu's Implementation of Useful Toolkits
-Version: 0.01
+Version: 0.02
 Date: 2013-10-25
 Author: Haoyu Tan
 Maintainer: Haoyu Tan <haoyutan@gmail.com>

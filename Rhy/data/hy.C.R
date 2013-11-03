@@ -1,1 +1,1 @@
-hy.C.version <- 0.01
+hy.C.version <- 0.02
